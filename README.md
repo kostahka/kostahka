@@ -1,4 +1,4 @@
-# ![image](https://github.com/kostahka/kostahka/assets/99989412/8e953724-ef9e-4137-b9a6-31b017adbfc5)
+# ![image](https://github.com/kostahka/kostahka/assets/99989412/df4ae429-ac8f-4743-b754-bf0693f0d57d)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&pause=200&color=4798F7&width=435&lines=C%2B%2B+Developer)
 
